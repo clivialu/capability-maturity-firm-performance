@@ -8,7 +8,7 @@ This repository contains supporting materials and analysis for the paper *“An 
 - **Authors:** L. Hayes, J. Lu, & D. Rezania  
 - **Journal:** *Management and Production Engineering Review*, Vol. 13 (2022)  
 - **DOI:** [https://doi.org/10.24425/mper.2022.142055](https://doi.org/10.24425/mper.2022.142055)  
-- **Ranking:** Unranked
+- **Ranking:** SJR Q3
 
 ## In plain language
 
