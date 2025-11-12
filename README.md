@@ -12,6 +12,6 @@ This repository contains supporting materials and analysis for the paper *“An 
 
 ## In plain language
 
-This study explores whether firms with more mature management capabilities—such as standardized processes, performance tracking, and continuous improvement—achieve stronger performance outcomes.  
+This study explores whether firms with more mature management capabilities, such as standardized processes, performance tracking, and continuous improvement—achieve stronger performance outcomes.  
 Drawing on survey and performance data from both manufacturing and IT firms, we find that higher capability maturity correlates with better efficiency and profitability.  
 However, the strength of this relationship differs across industries, suggesting that capability maturity contributes to performance in context-dependent ways.
